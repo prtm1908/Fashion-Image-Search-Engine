@@ -6,7 +6,6 @@ import cv2
 import numpy as np
 import os
 import pickle
-from tqdm import tqdm
 from numpy.linalg import norm
 from sklearn.neighbors import NearestNeighbors
 from PIL import Image
