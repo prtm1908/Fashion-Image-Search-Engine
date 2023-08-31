@@ -4,3 +4,4 @@ keras
 opencv-python-headless
 numpy
 sklearn
+scikit-learn
