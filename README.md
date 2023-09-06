@@ -2,7 +2,6 @@
 
 Welcome to the Fashion Image Search Engine repository! This project demonstrates how to build a fashion image search engine using ResNet feature extraction and nearest neighbour search techniques. With this search engine, users can input an image of a fashion item, and the system will return visually similar fashion items from a dataset.
 
-
 ## Installation
 
 To run this project locally, follow these steps:
